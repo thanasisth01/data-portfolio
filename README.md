@@ -53,9 +53,33 @@ This dashboard combines multiple visualizations including profit by category and
 ![Superstore Sales & Profit Insights Dashboard Preview](images/tableau/final_assignment.png)
 
 
+## 📊 Store Performance Clustering Dashboard
+This dashboard clusters stores based on their marketing spend and revenue, enabling the identification of high-performing locations and those needing improvement. It features scatter plots with cluster groupings, key metrics for each cluster, and interactive filters for detailed store-level analysis.
+
+**🔗 View Dashboard Online:** [Click here to view on Tableau Public](https://public.tableau.com/app/profile/athanasios.thanos/viz/Book-Clusters/Sheet1?publish=yes)  
+**⬇️ Download Tableau File (.twbx):** [Download here](dashboards/tableau/clustering.twbx)  
+
+![Store Performance Clustering Dashboard Preview](images/tableau/clustering.png)
 
 
 ## 🚀 Power BI Projects Dashboards
+
+## 📊  Dashboard
+
+
+**🔗 View Dashboard Online:** [Click here to view on Tableau Public]()  
+**⬇️ Download Tableau File (.twbx):** [Download here]()  
+
+![ Dashboard Preview]()
+
+
+## 📊  Dashboard
+
+
+**🔗 View Dashboard Online:** [Click here to view on Tableau Public]()  
+**⬇️ Download Tableau File (.twbx):** [Download here]()  
+
+![ Dashboard Preview]()
 
 ---
 
