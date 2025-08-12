@@ -64,13 +64,12 @@ This dashboard clusters stores based on their marketing spend and revenue, enabl
 
 ## 🚀 Power BI Projects Dashboards
 
-## 📊  Dashboard
+## 📊 Covid Analysis Dashboard
+This dashboard provides an overview of COVID-19 statistics by country, including total recovered cases, total deaths, confirmed cases, and active cases. Users can select a specific country to view detailed trends and data.
 
+**⬇️ Download Tableau File (.twbx):** [Download here](dashboards/power%20bi/covid_analysis.pbix)  
 
-**🔗 View Dashboard Online:** [Click here to view on Tableau Public]()  
-**⬇️ Download Tableau File (.twbx):** [Download here]()  
-
-![ Dashboard Preview]()
+![Covid Analysis Dashboard Preview](images/power%20bi/covid_analysis.png)
 
 
 ## 📊  Dashboard
