@@ -4,15 +4,15 @@ Welcome to my data analytics portfolio! This page highlights the projects I comp
 
 ## 🚀 Tableau Projects Dashboards
 
-### 🔹 [Covid Analysis Dashboard](https://github.com/thanasisth01/data-portfolio/blob/main/dashboards/tableau/covid_case_study.twbx)
-This dashboard visualizes COVID-19 case trends, recoveries, and death rates over time, with interactive filters for region and time period.  
+## 📊 Covid Cases Dashboard
 
-Online Viewing: https://public.tableau.com/app/profile/athanasios.thanos/viz/CaseStudyDashboard3/Dashboard1?publish=yes
+A simple interactive Tableau dashboard showcasing sales performance by region, category, and time period.  
+Includes filters, KPIs, and trend analysis for quick business insights.
 
-[🔍 View Full Size](images/tableau/covid_case_analysis.png)
+**🔗 View Dashboard Online:** [Click here to view on Tableau Public](https://public.tableau.com/app/profile/athanasios.thanos/viz/CaseStudyDashboard3/Dashboard1?publish=yes)  
+**⬇️ Download Tableau File (.twbx):** [Download here](dashboards/tableau/covid_case_study.twbx)  
 
-
-
+![Sales Dashboard Preview](images/tableau/covid_case_study.png)
 
 
 
