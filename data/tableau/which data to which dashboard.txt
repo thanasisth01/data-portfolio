@@ -1,0 +1,14 @@
+case study 1: Tableau Exercises Sample 1.xlsx
+
+clustering: Sheet 1_data.csv
+
+final_assignment: Tableau - Final Assignment.xlsx
+
+covid case study: COVID-19 Cases-.csv           // too big
+
+supermarket case study: supermarket_sales .xlsx
+
+superstore analysis 1 case study: Sample-Superstore.xlsx
+
+superstore analysis 2 case study: Sample-Superstore.xlsx
+

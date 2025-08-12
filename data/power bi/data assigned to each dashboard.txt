@@ -1,0 +1,9 @@
+supermarket analysis case study 1: 1-sample - superstore.xlsx
+
+supermarket analysis case study 2: supermarket sales.csv
+
+final assignment: Sample Data.xlsx
+
+covid analysis: covid analysis (folder) (4 xlsx)
+
+returns analysis: returns analysis (folder) (5 xlsx with connections)
