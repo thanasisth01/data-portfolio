@@ -72,13 +72,34 @@ This dashboard provides an overview of COVID-19 statistics by country, including
 ![Covid Analysis Dashboard Preview](images/power%20bi/covid_analysis.png)
 
 
-## 📊  Dashboard
+## 📊 Supermarket Sales Analysis Dashboard
+A supermarket sales analysis that calculates total sales, total discounts, and sales per product category. Provides quick insights into revenue trends and discount impacts. Ideal for tracking performance and guiding business decisions.
+
+**⬇️ Download Tableau File 1 (.twbx):** [Download here](dashboards/power%20bi/supermarket_analysis_case_study_1.pbix)  
+**⬇️ Download Tableau File 2 (.twbx):** [Download here](dashboards/power%20bi/supermarket_analysis_case_study_2.pbix)  
+
+![Supermarket Sales Analysis Dashboard 1 Preview](images/power%20bi/supermarket_analysis_case_study_1.png)
+![Supermarket Sales Analysis Dashboard 2 Preview](images/power%20bi/supermarket_analysis_case_study_2.png)
 
 
-**🔗 View Dashboard Online:** [Click here to view on Tableau Public]()  
-**⬇️ Download Tableau File (.twbx):** [Download here]()  
+## 📊 Store Returns Analysis Dashboard
+Analyzes product return data to track total returns and returned quantities. Helps identify return trends and potential product issues. Supports better inventory control and quality improvement decisions.
 
-![ Dashboard Preview]()
+**⬇️ Download Tableau File (.twbx):** [Download here](dashboards/power%20bi/returns-_analysis.pbix)  
+
+![Store Returns Analysis Dashboard Preview](images/power%20bi/returns_analysis.png)
+
+
+## 📊 Employee & Overall Quality Performance Dashboard
+An interactive dashboard to monitor employee and overall performance.
+Overall view shows quality scores per supervisor and total fatal errors.
+Employee view details tasks, defects, sampling rates, fatal errors, and maps work location quality scores.
+
+**⬇️ Download Tableau File (.twbx):** [Download here](dashboards/power%20bi/final_task.pbix)  
+
+![Employee Quality Performance Dashboard Preview](images/power%20bi/final%20assignment/employee_performance.png)
+![Overall Quality Performance Dashboard Preview](images/power%20bi/final%20assignment/quality_dashboard.png)
+
 
 ---
 
